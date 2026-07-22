@@ -138,7 +138,9 @@ Worked with a team to build a Ticket Management System during a one-month intern
 
 # Snake
 
-![Snake animation](https://github.com/pratyushsahoo18/pratyushsahoo18/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratyushsahoo18/pratyushsahoo18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
